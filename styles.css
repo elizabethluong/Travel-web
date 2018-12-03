@@ -3,6 +3,30 @@
   border-color: #009ad5;
 }
 
+.square {
+    position: relative;
+    width: 50%;
+}
+
+
+.rs {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 180%;
+    float: right;
+    width:350px;
+  }
+
+  .rss {
+      display: block;
+      margin-left: auto;
+      margin-right: auto;
+      width: 180%;
+      float: right;
+      width:500px;
+    }
+
 .img-responsive{
     width: 300px;
     height: auto;
