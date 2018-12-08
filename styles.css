@@ -9,6 +9,7 @@
 }
 
 
+
 .middle {
   transition: .5s ease;
   opacity: 0;
@@ -115,4 +116,14 @@ height: auto;
 
 .row{
   text-align: right;
+}
+
+.footer {
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  padding: 10px;
+  background-color: #efefef;
+  text-align: center;
 }
