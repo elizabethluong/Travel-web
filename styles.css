@@ -63,6 +63,9 @@
     align-content: center;
 }
 
+.header{
+text-align: center;}
+
 .row{
   background-color: #e6f7f1;
   margin: auto;
