@@ -114,6 +114,14 @@ height: auto;
     padding: 10% 5%;
 }
 
+.col-sm-6 p{
+  text-align: justify;
+  line-height: 30px;
+
+}
+
+
+}
 .row{
   text-align: right;
 }
@@ -126,4 +134,12 @@ height: auto;
   padding: 10px;
   background-color: #efefef;
   text-align: center;
+}
+
+#social-buttons button {
+color: white
+}
+
+.header{
+
 }
