@@ -8,8 +8,11 @@
     width: 70%;
 }
 
+<<<<<<< HEAD
 
 
+=======
+>>>>>>> f30b68d342a18540fb2183426c2aac6636b526c6
 .middle {
   transition: .5s ease;
   opacity: 0;
@@ -30,13 +33,6 @@
   font-size: 12px;
   padding: 16px 32px;
 }
-
-
-.square {
-    position: relative;
-    width: 50%;
-}
-
 
 .rs {
     display: block;
