@@ -8,11 +8,6 @@
     width: 70%;
 }
 
-<<<<<<< HEAD
-
-
-=======
->>>>>>> f30b68d342a18540fb2183426c2aac6636b526c6
 .middle {
   transition: .5s ease;
   opacity: 0;
@@ -34,13 +29,7 @@
   padding: 16px 32px;
 }
 
-.rs {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    width: 180%;
-    float: right;
-    width:250px;
+
   }
 
   .rss {
@@ -116,8 +105,6 @@ height: auto;
 .col-sm-6 p{
   text-align: justify;
   line-height: 30px;
-
-}
 
 
 }
