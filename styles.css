@@ -17,20 +17,7 @@ a{text-decoration: none}
     position: relative
 }
 
-.faq-group div {
-    font-weight: 700;
-    text-align: center;
-}
 
-.faq-group hr {
-        border: 0;
-    border-top: 1px solid #606060;
-    clear: both;
-    -moz-box-sizing: content-box;
-    -webkit-box-sizing: content-box;
-            box-sizing: content-box;
-    height: 0;
-}
 
 .faq-group:after {
     top: 33%;
@@ -57,14 +44,8 @@ a{text-decoration: none}
     padding: 1.125em;
 }
 
-.faq-accordion > li:last-child {
-    border-bottom: 1px solid rgba(198, 198, 198, 0.4);
-}
 
-.faq-accordion > li > a:before {
-    content: 'Q.';
-    padding-right: 0.313em
-}
+
 
 .faq-accordion > li > a:after {
     color: #ff8300;
@@ -78,20 +59,9 @@ a{text-decoration: none}
     overflow-y: hidden;
 }
 
-.faq-accordion > li > a.expanded:after {
-    color:  #ffa326;
-    content: '\2212';
-    -webkit-transform: scale(2);
-    -ms-transform: scale(2);
-            transform: scale(2);
-}
 
-.faq-accordion > li > a.expanded {font-weight: 700; opacity: 1 !important}
 
-.faq-content {
-    background-color: #ececec;
-    margin: 20px 0 -20px;
-}
+
 
 .faq-content p:before {
     content: 'A.';
@@ -99,20 +69,6 @@ a{text-decoration: none}
     float: left;
     font-weight: 700;
   margin-right: .5em
-}
-
-.faq-content p {
-    margin: 0 1.2em;
-    padding: 1.250em 0
-
-}
-
-.faq-hide {display: none}
-
-.faq-selected {
-    color: #49494b!important;
- -webkit-transition: all 1s ease;
-         transition: all 1s ease;
 }
 
 
@@ -221,6 +177,10 @@ a{text-decoration: none}
 		        transform: translateX(0%);
 	}
 }
+
+
+
+
 
 
 @import url(https://fonts.googleapis.com/css?family=Lato:100,300,400);
